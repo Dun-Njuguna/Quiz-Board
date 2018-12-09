@@ -5,6 +5,10 @@
 body {
   background-color: #FFFFFF;
 }
+#all {
+  position: relative;
+  background-color: white;
+}
 #introduction {
   margin: 10px;
   padding: 20px;
@@ -13,4 +17,38 @@ body {
   /* background-color: #006400; */
   background-color:#3F681C ;
   color: #FB6542;
+}
+#quiz {
+  background-color: #3F681C;
+  width: 90%;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#quiz-questions {
+  /* background-color: #006400; */
+  background-color:#3F681C;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#questions-left {
+  background-color: #FFFFFF;
+  color: #FB6542;
+  border-radius: 3px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#questions-right {
+  background-color: #FFFFFF;
+  color: #FB6542;
+  border-radius: 3px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+#forms{
+  background-color: #3F681C;
+  color: white;
 }
