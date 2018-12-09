@@ -52,3 +52,25 @@ body {
   background-color: #3F681C;
   color: white;
 }
+#forms{
+  background-color: #3F681C;
+  color: white;
+}
+#quiz-results {
+  /* background-color: #006400; */
+  background-color: #3F681C;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  /* display: none; */
+}
+#back{
+  background-color:  #3F681C;
+}
+
+#results {
+  text-align: center;
+  border-radius: 3px;
+  background-color: #3F681C;
+  margin-bottom: 5px;
+}
