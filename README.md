@@ -32,7 +32,14 @@ It is important that when collaborating or doing an independent project to be ab
 To use Javascript functions to control when the logical part of the application is called.
 
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
+## Specs.
+The following are specifiactions that the application sets out to meet:
+
+1.
+2.
+3.
+
 ## User Requirements.
 To use the application on the web follow the outlined steps:
 1. vist the following page ().
@@ -52,7 +59,7 @@ To run this project on your local machine, simply download it navigate to the fo
 As of witting, the page is not optimized for usage with smaller screens and thus content does not appear consistent.
 
 ## Link to live site
-Here is a link to the live site on git-hub pages()
+Here is a link to the live site on git-hub pages(https://dun-njuguna.github.io/Quiz-Board/)
 
 ## Support or contribution instructions
 If you require to use or make any changes to this project, then reach out to me on the email below.
