@@ -71,16 +71,13 @@ body {
   margin-top: 5px;
   margin-bottom: 5px;
 }
-
-.col-md-6 {
+.col-md-6{
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
   hyphens: auto;
   word-wrap: break-word;
-  white-space: wrap;
 }
-
 .radio {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
@@ -119,28 +116,20 @@ body {
   width: 100%;
   border-radius: 5px;
   background-color: #3F681C;
-  padding: 40px;
+  padding: 20px;
 }
 
 #footer-left {
-  color: #FFFFFF;
+  : #FFFFFF;
   display: flex;
-  justify-content: center;
+  justify-content:center;
+  padding-top: 30px;
+  font-size: 1em;
 }
-
-#footer-center {
-  color: #FFFFFF;
-  display: flex;
-  justify-content: center;
+a{
+  color: white;
 }
-
-#footer-right {
-  color: #FFFFFF;
-  display: flex;
-  justify-content: center;
-}
-
-.col-md-4 {
+.col-md-12{
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
