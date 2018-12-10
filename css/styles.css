@@ -5,17 +5,34 @@
 body {
   background-color: #FFFFFF;
 }
+
 #all {
   position: relative;
   background-color: white;
 }
+
 #introduction {
   margin: 10px;
   padding: 20px;
   border-radius: 5px;
   text-align: center;
-  background-color:#3F681C ;
+  background-color: #3F681C;
   color: #FB6542;
+}
+.jumbotron{
+  text-align: center;
+  border-style: solid;
+  border-color: #3F681C;
+  padding: 5px;
+  margin: auto;
+  max-width: 95%;
+  overflow: hidden;
+  background-image: url("../img/javascript2.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+#jumbotronimage {
+  max-width: 100%;
 }
 #quiz {
   background-color: #3F681C;
@@ -26,7 +43,7 @@ body {
 }
 
 #quiz-questions {
-  background-color:#3F681C;
+  background-color: #3F681C;
   border-radius: 5px;
   padding: 10px;
 }
@@ -46,14 +63,12 @@ body {
   margin-top: 5px;
   margin-bottom: 5px;
 }
-#forms{
+
+#forms {
   background-color: #3F681C;
-  color: white;
+  color: #FB6542;
 }
-#forms{
-  background-color: #3F681C;
-  color: white;
-}
+
 #quiz-results {
   background-color: #3F681C;
   border-radius: 5px;
@@ -61,8 +76,9 @@ body {
   padding: 10px;
   display: none;
 }
-#back{
-  background-color:  #3F681C;
+
+#back {
+  background-color: #3F681C;
 }
 
 #results {
@@ -71,20 +87,21 @@ body {
   background-color: #3F681C;
   margin-bottom: 5px;
 }
+
 #footer {
   border-radius: 5px;
-  background-color:#3F681C;
+  background-color: #3F681C;
   padding: 40px;
 }
 
 #footer-left {
-  color: #FB6542;
+  color: #FFFFFF;
 }
 
 #footer-center {
-  color: #FB6542;
+  color: #FFFFFF;
 }
 
 #footer-right {
-  color: #FB6542;
+  color: #FFFFFF;
 }
