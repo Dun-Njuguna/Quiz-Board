@@ -33,12 +33,14 @@ To use Javascript functions to control when the logical part of the application 
 
 
 -----------------------------------------------------------------------
-## Specs.
-The following are specifiactions that the application sets out to meet:
+## specifiactions.
+The following are the particulars that the application sets out to meet:
 
-1.
-2.
-3.
+1. The application should offer the user with diffrent questions with multiple answers.
+2. Give the user the ability to chose an answer to a question.
+3. The application should take in options from the user  and assign a value to the selected one depending on whether it is correct or not.
+4. Calculate the final score by adding the values assigned.
+5. Hide the questions area and display the results pane.
 
 ## User Requirements.
 To use the application on the web follow the outlined steps:
