@@ -1,6 +1,6 @@
-# QUIZ BOARD
+### QUIZ BOARD
 
-### CREATED BY **Duncan Kariuki**
+### CREATED BY ** Duncan Kariuki **
 
 --------------------------------------------------------------------------
 ![Questions](https://github.com/Dun-Njuguna/Quiz-Board/blob/master/img/FireShot%20Capture%203%20-%20Document%20-%20https___dun-njuguna.github.io_Quiz-Board_.png)
@@ -16,7 +16,7 @@ The objective of this project is to create an application, that lets the user ch
 
 
 ## Technologies used
-This project has been written in two programming languages, HTML which is used to create the basic skeleton of the pages and CSS which is used to style it.This languages ore dependent on each other in order for a web page to appear fully backed.
+This project has been written in programming languages, like HTML which is used to create the basic skeleton of the pages and CSS which is used to style it.This languages ore dependent on each other in order for a web page to appear fully backed.
 The logical part of the application is created out of javascript, which is used to collect user answers and then display their score.
 
 ### 1.CSS(Cascading style sheet)
@@ -29,7 +29,7 @@ This refers to the formatting of HTML and CSS. It is easy to read code that is w
 It is important that when collaborating or doing an independent project to be able to track the changes and revert to a previous stable state in case of the local copy being damaged.
 
 ### 5.Javascript/Jquery.
-To use Javascript functions to control when the logical part of the application is called.
+To use events to control when the logical part of the application is called.
 
 
 -----------------------------------------------------------------------
@@ -55,10 +55,10 @@ To run this project on your local machine, simply download it navigate to the fo
 ------------------------------------------------------------------
 
 ## Future features
-
+Will add the ability for the application to tell the user which questions he or she has passed or failed at.
 
 ## Known bugs
-As of witting, the page is not optimized for usage with smaller screens and thus content does not appear consistent.
+As of witting, there are no Known bugs.
 
 ## Link to live site
 Here is a link to the live site on git-hub pages(https://dun-njuguna.github.io/Quiz-Board/)
