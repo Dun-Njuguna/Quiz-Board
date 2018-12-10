@@ -18,8 +18,14 @@ body {
   text-align: center;
   background-color: #3F681C;
   color: #FB6542;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  word-wrap: break-word;
 }
-.jumbotron{
+
+.jumbotron {
   text-align: center;
   border-style: solid;
   border-color: #3F681C;
@@ -31,9 +37,11 @@ body {
   background-repeat: no-repeat;
   background-size: 100%;
 }
+
 #jumbotronimage {
   max-width: 100%;
 }
+
 #quiz {
   background-color: #3F681C;
   width: 90%;
@@ -64,6 +72,24 @@ body {
   margin-bottom: 5px;
 }
 
+.col-md-6 {
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  word-wrap: break-word;
+  white-space: wrap;
+}
+
+.radio {
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  word-wrap: break-word;
+  white-space: wrap;
+}
+
 #forms {
   background-color: #3F681C;
   color: #FB6542;
@@ -89,6 +115,8 @@ body {
 }
 
 #footer {
+  margin: auto;
+  width: 100%;
   border-radius: 5px;
   background-color: #3F681C;
   padding: 40px;
@@ -96,12 +124,26 @@ body {
 
 #footer-left {
   color: #FFFFFF;
+  display: flex;
+  justify-content: center;
 }
 
 #footer-center {
   color: #FFFFFF;
+  display: flex;
+  justify-content: center;
 }
 
 #footer-right {
   color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+}
+
+.col-md-4 {
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  word-wrap: break-word;
 }
