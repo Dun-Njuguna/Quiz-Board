@@ -1,6 +1,7 @@
-var quizResult = [];
 $(document).ready(function() {
-  $("#forms").on('click',function(event) {
+  //Business Logic
+  var quizResult = [];
+  $("#forms").on('click', function(event) {
     $('.radio input:checked').each(function() {
       quizResult.push($(this).val());
       event.preventDefault();
@@ -11,7 +12,9 @@ $(document).ready(function() {
     }
     $("#result").val(totalScore);
   });
-  $("#forms").click(function(event) {
+
+  //User interface
+  $("#forms").on('click', function(event) {
     $("#quiz").fadeOut('slow');
     $("#quiz-results").fadeIn('slow');
   });
