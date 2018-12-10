@@ -1,22 +1,18 @@
-var the_value = [];
+var quizResult = [];
 $(document).ready(function() {
-  $("#forms").click(function(event) {
+  $("#forms").on('click',function(event) {
     $('.radio input:checked').each(function() {
-      the_value.push($(this).val());
+      quizResult.push($(this).val());
       event.preventDefault();
     });
-    var total = 0;
-    for (var i = 0; i < the_value.length; i++) {
-      total += the_value[i] << 0;
+    var totalScore = 0;
+    for (var i = 0; i < quizResult.length; i++) {
+      totalScore += quizResult[i] << 0;
     }
-    $("#result").val(total);
+    $("#result").val(totalScore);
   });
   $("#forms").click(function(event) {
     $("#quiz").fadeOut('slow');
     $("#quiz-results").fadeIn('slow');
-  });
-  $("#back").click(function(event) {
-    $("#quiz-results").fadeOut('slow');
-    $("#quiz").fadeIn('slow');
   });
 });
