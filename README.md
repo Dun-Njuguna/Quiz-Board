@@ -3,7 +3,11 @@
 ### CREATED BY **Duncan Kariuki**
 
 --------------------------------------------------------------------------
-![Running version]()
+![Questions](https://github.com/Dun-Njuguna/Quiz-Board/blob/master/img/FireShot%20Capture%203%20-%20Document%20-%20https___dun-njuguna.github.io_Quiz-Board_.png)
+Page to answer questions
+
+![Results](https://github.com/Dun-Njuguna/Quiz-Board/blob/master/img/FireShot%20Capture%204%20-%20Document%20-%20https___dun-njuguna.github.io_Quiz-Board_.png)
+Results displayed
 ## Project Objectives
 
 The objective of this project is to create an application, that lets the user chose the answer to a question and then displays their score.
