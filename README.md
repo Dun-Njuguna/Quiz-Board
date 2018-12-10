@@ -1,6 +1,6 @@
 ### QUIZ BOARD
 
-### CREATED BY ** Duncan Kariuki **
+### CREATED BY  Duncan Kariuki
 
 --------------------------------------------------------------------------
 ![Questions](https://github.com/Dun-Njuguna/Quiz-Board/blob/master/img/FireShot%20Capture%203%20-%20Document%20-%20https___dun-njuguna.github.io_Quiz-Board_.png)
@@ -44,7 +44,7 @@ The following are the particulars that the application sets out to meet:
 
 ## User Requirements.
 To use the application on the web follow the outlined steps:
-1. vist the following page ().
+1. vist the following page (https://dun-njuguna.github.io/Quiz-Board/).
 2. Answer the questions buy selecting an answer for each question using the radio buttons.
 3. And wait for a message to be displayed(score).
 
