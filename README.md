@@ -1,4 +1,4 @@
-# ** QUIZ BOARD **
+# QUIZ BOARD
 
 ### CREATED BY **Duncan Kariuki**
 
