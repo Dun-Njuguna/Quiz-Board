@@ -3,10 +3,10 @@
 ### CREATED BY  Duncan Kariuki
 
 --------------------------------------------------------------------------
-![Questions](https://github.com/Dun-Njuguna/Quiz-Board/blob/master/img/FireShot%20Capture%203%20-%20Document%20-%20https___dun-njuguna.github.io_Quiz-Board_.png)
+![Questions](https://github.com/Dun-Njuguna/Quiz-Board/blob/master/img/questions.png)
 Page to answer questions
 
-![Results](https://github.com/Dun-Njuguna/Quiz-Board/blob/master/img/FireShot%20Capture%204%20-%20Document%20-%20https___dun-njuguna.github.io_Quiz-Board_.png)
+![Results](https://github.com/Dun-Njuguna/Quiz-Board/blob/master/img/results.png)
 Results displayed
 ## Project Objectives
 
