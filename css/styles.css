@@ -17,7 +17,6 @@ body {
   border-radius: 5px;
   text-align: center;
   background-color: #3F681C;
-  color: #FB6542;
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
@@ -58,7 +57,6 @@ body {
 
 #questions-left {
   background-color: #FFFFFF;
-  color: #FB6542;
   border-radius: 3px;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -66,7 +64,6 @@ body {
 
 #questions-right {
   background-color: #FFFFFF;
-  color: #FB6542;
   border-radius: 3px;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -91,7 +88,6 @@ body {
 
 #forms {
   background-color: #3F681C;
-  color: #FB6542;
 }
 
 #quiz-results {
@@ -122,7 +118,6 @@ body {
 }
 
 #footer-left {
-  : #FFFFFF;
   display: flex;
   justify-content: center;
   padding-top: 30px;
@@ -130,7 +125,7 @@ body {
 }
 
 a {
-  color: white;
+  color: black;
 }
 
 .col-md-12 {
