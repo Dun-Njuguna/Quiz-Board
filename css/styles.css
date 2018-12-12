@@ -27,18 +27,21 @@ body {
 .jumbotron {
   text-align: center;
   border-style: solid;
+  height: 13em;
+  background-color: #FFFFFF;
   border-color: #3F681C;
   padding: 5px;
   margin: auto;
   max-width: 95%;
   overflow: hidden;
-  background-image: url("../img/javascript2.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
 
-#jumbotronimage {
-  max-width: 100%;
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
 }
 
 #quiz {
